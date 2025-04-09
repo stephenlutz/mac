@@ -20,13 +20,13 @@
 
 .portfolio-experiment {
   background: #000000;
-  color: #ffffff;
+  color: #FFFFFF;
 }
 .portfolio-experiment .experiment-title {
   outline: none;
   font-size: 6vw;
   text-align: center;
-  font-family: "Helvetica Neue", monospace;
+  font-family: "Helvetica", monospace;
   min-height: 10vw;
   max-width: 80vw;
   min-width: 10vw;
