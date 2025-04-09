@@ -24,9 +24,9 @@
 }
 .portfolio-experiment .experiment-title {
   outline: none;
-  font-size: 6vw;
+  font-size: 4vw;
   text-align: center;
-  font-family: "Helvetica", monospace;
+  font-family: "Arial", monospace;
   min-height: 10vw;
   max-width: 80vw;
   min-width: 10vw;
